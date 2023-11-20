@@ -1,0 +1,914 @@
+{
+  "0": {
+    "Nama": "bawangBombay",
+    "Manfaat1": "Mencegah terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat2": "Meningkatkan fungsi otak",
+    "Manfaat3": "Mencegah penyumbatan pembuluh darah",
+    "Manfaat4": "Menurunkan resiko terjadinya anemia",
+    "Manfaat5": "Meningkatkan sistem imun"
+  },
+  "1": {
+    "Nama": "bayamHijau",
+    "Manfaat1": "Mencegah stres oksidatif",
+    "Manfaat2": "Menjaga kesehatan tulang",
+    "Manfaat3": "Menurunkan risiko gejala asma",
+    "Manfaat4": "Meningkatkan kesehatan pencernaan",
+    "Manfaat5": "Mencegah anemia"
+  },
+  "2": {
+    "Nama": "bayamMerah",
+    "Manfaat1": "Meningkatkan daya tahan tubuh",
+    "Manfaat2": "Mengobati disentri",
+    "Manfaat3": "Meningkatkan Kadar Hemoglobin",
+    "Manfaat4": "Mengatasi diabetes",
+    "Manfaat5": "Menjaga kesehatan jantung"
+  },
+  "3": {
+    "Nama": "belut",
+    "Manfaat1": "Membantu tumbuh kembang janin",
+    "Manfaat2": "Pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat3": "Meminimalkan resiko terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat4": "Menunjang dan meningkatkan fungsi kemampuan berfikir",
+    "Manfaat5": "Membantu perkembangan otak"
+  },
+  "4": {
+    "Nama": "buahAlpukat",
+    "Manfaat1": "Menjaga kesehatan jantung",
+    "Manfaat2": "Mengontrol kadar gula darah",
+    "Manfaat3": "Mencegah sembelit",
+    "Manfaat4": "Mengontrol tekanan darah",
+    "Manfaat5": "Menjaga kesehatan mata"
+  },
+  "5": {
+    "Nama": "buahAnggur",
+    "Manfaat1": "Mencegah peningkatan kolesterol",
+    "Manfaat2": "Mengoptimalkan sistem imun tubuh",
+    "Manfaat3": "Menurunkan tekanan darah",
+    "Manfaat4": "Meningkatkan kesehatan tulang",
+    "Manfaat5": "Mengoptimalkan kesehatan otak"
+  },
+  "6": {
+    "Nama": "buahApel",
+    "Manfaat1": "Meredakan mual saat hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Mendukung kesehatan ibu hamil",
+    "Manfaat4": "Menunjang dan meningkatkan proses reproduksi",
+    "Manfaat5": "Menjaga pemecahan nutrisi makanan (terutama pada lemak)"
+  },
+  "7": {
+    "Nama": "buahBelimbing",
+    "Manfaat1": "Memastikan berlangsungnya fungsi otak dengan baik",
+    "Manfaat2": "Mencegah terjadinya penyakit diabetes",
+    "Manfaat3": "Meminimalkan kanker, terutama kanker usus besar",
+    "Manfaat4": "Memulihkan keseimbangan cairan tubuh",
+    "Manfaat5": "Menormalkan tekanan darah"
+  },
+  "8": {
+    "Nama": "buahDuku",
+    "Manfaat1": "Mencegah sembelit atau konstipasi pada Ibu hamil",
+    "Manfaat2": "Sebagai antioksidan bagi Ibu hamil",
+    "Manfaat3": "Membantu meningkatkan daya tahan tubuh Ibu hamil",
+    "Manfaat4": "Membantu mencegah infeksi saluran kemih",
+    "Manfaat5": "Mendukung kesehatan kulit"
+  },
+  "9": {
+    "Nama": "buahDurian",
+    "Manfaat1": "Kaya serat",
+    "Manfaat2": "Sumber folat yang baik",
+    "Manfaat3": "Kaya vitamin B",
+    "Manfaat4": "Kaya antioksidan",
+    "Manfaat5": "Kaya vitamin C"
+  },
+  "10": {
+    "Nama": "buahJambuAir",
+    "Manfaat1": "Mencegah resiko terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat2": "Menopang perkembangan janin",
+    "Manfaat3": "Menjaga kesehatan saraf",
+    "Manfaat4": "Memastikan berlangsungnya fungsi otak dengan baik",
+    "Manfaat5": "Menjaga dan meningkatkan sistem kekebalan tubuh"
+  },
+  "11": {
+    "Nama": "buahJambuBiji",
+    "Manfaat1": "Meningkatkan fungsi otak",
+    "Manfaat2": "Meminimalkan terjadinya hipertensi",
+    "Manfaat3": "Meminimalkan kanker, terutama kanker usus besar",
+    "Manfaat4": "Mengurangi resiko terjadinya diabetes",
+    "Manfaat5": "Mencegah resiko terjadinya dehidrasi"
+  },
+  "12": {
+    "Nama": "buahJeruk",
+    "Manfaat1": "Menurunkan kolesterol",
+    "Manfaat2": "Sistem Pencernaan Lebih Baik",
+    "Manfaat3": "Pendukung Kesehatan Tulang",
+    "Manfaat4": "Sistem Pencernaan Lebih Baik",
+    "Manfaat5": "Mencegah Dehidrasi"
+  },
+  "13": {
+    "Nama": "buahJerukBali",
+    "Manfaat1": "Mengontrol tekanan darah",
+    "Manfaat2": "Menurunkan kolesterol",
+    "Manfaat3": "Mencegah insomnia",
+    "Manfaat4": "Mengatasi gangguan pencernaan",
+    "Manfaat5": "Berat badan terjaga"
+  },
+  "14": {
+    "Nama": "buahJerukNipis",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Menyangga komunikasi sistem saraf dan otak",
+    "Manfaat3": "Membantu kesehatan ibu hamil",
+    "Manfaat4": "Memastikan berlangsungnya fungsi otak dengan baik",
+    "Manfaat5": "Mencegah risiko terjadinya kanker, terutama kanker usus besar\u00a0"
+  },
+  "15": {
+    "Nama": "buahKedondong",
+    "Manfaat1": "Meningkatkan imunitas tubuh",
+    "Manfaat2": "Menurunkan risiko penyakit jantung",
+    "Manfaat3": "Menjaga kesehatan mata",
+    "Manfaat4": "Melancarkan pencernaan",
+    "Manfaat5": "Menjaga kesehatan kulit"
+  },
+  "16": {
+    "Nama": "buahKelapa",
+    "Manfaat1": "Memberikan manfaat neurologis",
+    "Manfaat2": "Mendukung fungsi otak",
+    "Manfaat3": "Mencegah terjadinya hipertensi",
+    "Manfaat4": "Mencegah resiko penyakit jantung",
+    "Manfaat5": "Mencegah resiko terbentuknya batu ginjal"
+  },
+  "17": {
+    "Nama": "buahKelengkeng",
+    "Manfaat1": "Meningkatkan daya tahan tubuh serta stamina bagi ibu hamil",
+    "Manfaat2": "Menjaga kekuatan tulang ibu hamil dan janin",
+    "Manfaat3": "Mencegah anemia",
+    "Manfaat4": "Meningkatkan nafsu makan",
+    "Manfaat5": "Meningkatkan metabolisme selama hamil"
+  },
+  "18": {
+    "Nama": "buahKesemek",
+    "Manfaat1": "Menjaga kesehatan mata",
+    "Manfaat2": "Mendukung Kesehatan Otak",
+    "Manfaat3": "Baik untuk Kesehatan Jantung",
+    "Manfaat4": "Mencegah Kanker Usus Besar",
+    "Manfaat5": "Membantu Mengurangi Risiko Osteoporosis"
+  },
+  "19": {
+    "Nama": "buahLemon",
+    "Manfaat1": "Mencegah resiko terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat2": "Meningkatkan fungsi otak",
+    "Manfaat3": "Menunjang dan meningkatkan kesehatan pencernaan",
+    "Manfaat4": "Mengurangi resiko penyakit gangguan pernafasan",
+    "Manfaat5": "Mencegah penyumbatan pembuluh darah"
+  },
+  "20": {
+    "Nama": "buahMangga",
+    "Manfaat1": "Menjaga kesehatan pencernaan",
+    "Manfaat2": "Mampu Meningkatkan Imun Tubuh\u00a0",
+    "Manfaat3": "Menurunkan Risiko Kanker",
+    "Manfaat4": "Mengurangi Risiko Diabetes",
+    "Manfaat5": "Menjaga Kesehatan Jantung"
+  },
+  "21": {
+    "Nama": "buahManggis",
+    "Manfaat1": "Menjaga dan meningkatkan fungsi otak",
+    "Manfaat2": "Menjamin kesehatan pencernaan",
+    "Manfaat3": "Menjaga keseimbangan cairan tubuh",
+    "Manfaat4": "Mencegah resiko hipertensi",
+    "Manfaat5": "Menopang kesehatan kulit"
+  },
+  "22": {
+    "Nama": "buahMarkisa",
+    "Manfaat1": "Pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat2": "Mencegah resiko terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat3": "Menunjang perkembangan janin",
+    "Manfaat4": "Menjaga dan meningkatkan fungsi otak",
+    "Manfaat5": "Menunjang kesehatan saraf"
+  },
+  "23": {
+    "Nama": "buahMatoa",
+    "Manfaat1": "Meningkatkan imunitas tubuh",
+    "Manfaat2": "Mencegah Penyakit Kronis",
+    "Manfaat3": "Melindungi Jantung",
+    "Manfaat4": "Menurunkan Tekanan Darah",
+    "Manfaat5": "Meningkatkan Kesuburan bagi Pria"
+  },
+  "24": {
+    "Nama": "buahMelon",
+    "Manfaat1": "Menurunkan tekanan darah",
+    "Manfaat2": "Menjaga Kesehatan Tulang",
+    "Manfaat3": "Menjaga Kesehatan Kulit",
+    "Manfaat4": "Menjaga Kesehatan Pencernaan",
+    "Manfaat5": "Menjaga Kesehatan Mata"
+  },
+  "25": {
+    "Nama": "buahMengkudu",
+    "Manfaat1": "Meningkatkan kesehatan otak",
+    "Manfaat2": "Meningkatkan kesehatan mata",
+    "Manfaat3": "Meningkatkan kekebalan tubuh",
+    "Manfaat4": "Menjaga kesehatan jantung",
+    "Manfaat5": "Meredakan nyeri sendi"
+  },
+  "26": {
+    "Nama": "buahNaga",
+    "Manfaat1": "Meningkatkan kesehatan usus",
+    "Manfaat2": "Mencegah penyakit kronis",
+    "Manfaat3": "Meningkatkan sistem imun tubuh",
+    "Manfaat4": "Mencegah anemia defisiensi besi",
+    "Manfaat5": "Menjaga tubuh terhidrasi"
+  },
+  "27": {
+    "Nama": "buahNanas",
+    "Manfaat1": "Meningkatkan fungsi otak",
+    "Manfaat2": "Mencegah hipertensi",
+    "Manfaat3": "Memulihkan kesehatan kulit",
+    "Manfaat4": "Meminimalkan risiko terbentuknya batu ginjal",
+    "Manfaat5": "Menjaga keseimbangan cairan tubuh"
+  },
+  "28": {
+    "Nama": "buahNangka",
+    "Manfaat1": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat2": "Menurunkan risiko terjadinya pre-eklampsia pada ibu hamil\u00a0",
+    "Manfaat3": "Membantu tetap fokus (kemampuan konsentrasi\/fokus)",
+    "Manfaat4": "Memberikan manfaat neurologis",
+    "Manfaat5": "Menurunkan risiko terjadinya peradangan osteoarthritis (radang sendi lutut)"
+  },
+  "29": {
+    "Nama": "buahPala",
+    "Manfaat1": "Menjaga kesehatan gigi dan mulut",
+    "Manfaat2": "Mengontrol gula darah",
+    "Manfaat3": "Mengurangi peradangan",
+    "Manfaat4": "Melindungi sel-sel tubuh",
+    "Manfaat5": "Membantu memperbaiki suasana hati"
+  },
+  "30": {
+    "Nama": "buahPepaya",
+    "Manfaat1": "Mencegah risiko penyusutan tulang selama hamil dan menyusui\u00a0",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Meminimalkan risiko penyakit neurodegeneratif (menyerang sel saraf)",
+    "Manfaat4": "Mendukung ginjal menyaring zat sisa makanan",
+    "Manfaat5": "Menjaga dan meningkatkan pertumbuhan gigi\u00a0"
+  },
+  "31": {
+    "Nama": "buahPisang",
+    "Manfaat1": "Menjaga kesehatan jantung",
+    "Manfaat2": "Meningkatkan kesehatan pencernaan",
+    "Manfaat3": "Menurunkan risiko peradangan kronis",
+    "Manfaat4": "Meningkatkan kesehatan ginjal",
+    "Manfaat5": "Membantu proses penyembuhan luka"
+  },
+  "32": {
+    "Nama": "buahRambutan",
+    "Manfaat1": "Melancarkan sistem cerna",
+    "Manfaat2": "Memperkuat daya tahan tubuh",
+    "Manfaat3": "Menjaga kesehatan jantung",
+    "Manfaat4": "Menurunkan risiko munculnya kanker",
+    "Manfaat5": "Menjaga kesehatan tulang"
+  },
+  "33": {
+    "Nama": "buahSalak",
+    "Manfaat1": "Mendukung kesehatan ibu hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Membantu perkembangan janin",
+    "Manfaat4": "Meningkatkan dan menjaga sistem imunitas tubuh",
+    "Manfaat5": "Mengurangi resiko penyakit gangguan pernafasan"
+  },
+  "34": {
+    "Nama": "buahSawo",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Menjaga fungsi otak",
+    "Manfaat3": "Menjaga kesehatan saraf",
+    "Manfaat4": "Meningkatkan kesehatan sistem kardiovaskular",
+    "Manfaat5": "Meningkatkan dan menjaga imunitas tubuh"
+  },
+  "35": {
+    "Nama": "buahSemangka",
+    "Manfaat1": "Menunjang berlangsungnya fungsi otak dengan baik",
+    "Manfaat2": "Meningkatkan dan menjaga sistem kekebalan tubuh",
+    "Manfaat3": "Mengurangi resiko kanker",
+    "Manfaat4": "Mengurangi resiko kanker",
+    "Manfaat5": "Mencegah penuaan dini"
+  },
+  "36": {
+    "Nama": "buahSirsak",
+    "Manfaat1": "Menyangga fungsi otak",
+    "Manfaat2": "Membantu tetap fokus",
+    "Manfaat3": "Menjaga dan meningkatkan sistem imunitas tubuh",
+    "Manfaat4": "Menurunkan resiko kanker, terutama kanker usus besar",
+    "Manfaat5": "Memerangi penyakit jantung koroner"
+  },
+  "37": {
+    "Nama": "buahSrikaya",
+    "Manfaat1": "Menunjang perkembangan janin",
+    "Manfaat2": "Mencegah risiko terjadinya pre-eklampsia pada ibu hamil\u00a0",
+    "Manfaat3": "Menjamin kestabilan gula darah",
+    "Manfaat4": "Obat penenang alami yang menenangkan sistem saraf",
+    "Manfaat5": "Mengaktifkan saraf"
+  },
+  "38": {
+    "Nama": "buahSukun",
+    "Manfaat1": "Meningkatkan kesehatan jantung",
+    "Manfaat2": "Mencegah dan mengontrol diabetes",
+    "Manfaat3": "Melancarkan pencernaan",
+    "Manfaat4": "Meredakan nyeri sendi dan otot",
+    "Manfaat5": "Meningkatkan kesehatan kulit"
+  },
+  "39": {
+    "Nama": "cumiCumi",
+    "Manfaat1": "Menurunkan \u00a0kolesterol",
+    "Manfaat2": "Sehat bagi Jantung",
+    "Manfaat3": "Melancarkan Pencernaan",
+    "Manfaat4": "Membangun Otot",
+    "Manfaat5": "Memenuhi Kebutuhan Vitamin Harian Tubuh"
+  },
+  "40": {
+    "Nama": "dagingAyam",
+    "Manfaat1": "Menguatkan tulang dan otot",
+    "Manfaat2": "Mengontrol Tekanan Darah ",
+    "Manfaat3": "Menurunkan Kolesterol",
+    "Manfaat4": "Meningkatkan Fungsi Otak",
+    "Manfaat5": "Meningkatkan Metabolisme Tubuh"
+  },
+  "41": {
+    "Nama": "dagingBebek",
+    "Manfaat1": "Baik untuk ibu hamil",
+    "Manfaat2": "Meminimalkan terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat3": "Mendukung perkembangan janin",
+    "Manfaat4": "Menjaga kestabilan gula darah",
+    "Manfaat5": "Mencegah anemia"
+  },
+  "42": {
+    "Nama": "dagingKambing",
+    "Manfaat1": "Membantu pertumbuhan dan perkembangan janin",
+    "Manfaat2": "Meningkatkan kadar hemoglobin",
+    "Manfaat3": "Membantu mengembangkan sistem kekebalan pada janin",
+    "Manfaat4": "Menjaga sistem saraf",
+    "Manfaat5": "Mencegah anemia pada ibu hamil"
+  },
+  "43": {
+    "Nama": "dagingSapi",
+    "Manfaat1": "Meminimalkan pre-eklampsia pada ibu hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Menjaga kesehatan saraf",
+    "Manfaat4": "Memerangi penyakit gagal jantung kongestif",
+    "Manfaat5": "Membantu sistem imunitas tubuh"
+  },
+  "44": {
+    "Nama": "daunKatuk",
+    "Manfaat1": "Menjaga kesehatan mata",
+    "Manfaat2": "Meningkatkan sistem kekebalan tubuh",
+    "Manfaat3": "Membersihkan racun di tubuh",
+    "Manfaat4": "Mengatasi dan mencegah anemia",
+    "Manfaat5": "Mencegah risiko pendarahan"
+  },
+  "45": {
+    "Nama": "daunKubis",
+    "Manfaat1": "Baik untuk kesehatan jantung",
+    "Manfaat2": "Membantu Menurunkan Kadar Kolesterol",
+    "Manfaat3": "Baik untuk Kekebalan Tubuh dan Pencernaan",
+    "Manfaat4": "Dapat Menurunkan Tekanan Darah",
+    "Manfaat5": "Baik untuk Pencernaan"
+  },
+  "46": {
+    "Nama": "daunKucai",
+    "Manfaat1": "Mencegah osteoporosis",
+    "Manfaat2": "Meningkatkan Imunitas",
+    "Manfaat3": "Membantu Mengobati Masalah Pencernaan",
+    "Manfaat4": "Meningkatkan Kesehatan Jantung",
+    "Manfaat5": "Membantu Mencegah Cacat Lahir"
+  },
+  "47": {
+    "Nama": "daunMelinjo",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Baik untuk ibu hamil",
+    "Manfaat3": "Mendukung perkembangan otak",
+    "Manfaat4": "Menunjang kemampuan berpikir",
+    "Manfaat5": "Membantu pertumbuhan serta perkembangan sel-sel organ tubuh"
+  },
+  "48": {
+    "Nama": "daunParsley",
+    "Manfaat1": "Mendukung proses reproduksi",
+    "Manfaat2": "Menjaga ibu hamil tetap sehat\u00a0",
+    "Manfaat3": "Membantu komunikasi sistem saraf dan otak\u00a0",
+    "Manfaat4": "Menjamin berlangsungnya fungsi otak dengan baik",
+    "Manfaat5": "Mengatasi dan mencegah gejala premenstrual syndrome (PMS)"
+  },
+  "49": {
+    "Nama": "daunPepaya",
+    "Manfaat1": "Membantu perkembangan janin",
+    "Manfaat2": "Mencegah terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat3": "Mencegah terjadinya penyakit stroke",
+    "Manfaat4": "Menjaga gula darah tetap stabil",
+    "Manfaat5": "Menyeimbangkan tingkat keasaman darah"
+  },
+  "50": {
+    "Nama": "daunSeledri",
+    "Manfaat1": "Meredakan nyeri haid",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Mencegah risiko penyusutan tulang selama hamil dan menyusui",
+    "Manfaat4": "Mencegah pre-eklampsia pada ibu hamil",
+    "Manfaat5": "Menopang kesehatan ibu hamil"
+  },
+  "51": {
+    "Nama": "daunSingkong",
+    "Manfaat1": "Baik untuk ibu hamil",
+    "Manfaat2": "Meningkatkan fungsi otak",
+    "Manfaat3": "Menopang kesehatan saraf",
+    "Manfaat4": "Meningkatkan sistem imun",
+    "Manfaat5": "Melancarkan peredaran darah"
+  },
+  "52": {
+    "Nama": "daunTalas",
+    "Manfaat1": "Untuk kesehatan pencernaan",
+    "Manfaat2": "Untuk kesehatan mata",
+    "Manfaat3": "Mencegah kanker",
+    "Manfaat4": "Mempertahankan keseimbangan kolesterol",
+    "Manfaat5": "Untuk kesehatan janin"
+  },
+  "53": {
+    "Nama": "ecengGondok",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Menunjang kesehatan ibu hamil",
+    "Manfaat3": "Baik untuk jantung",
+    "Manfaat4": "Menjamin fungsi otak",
+    "Manfaat5": "Meningkatkan produksi hemoglobin"
+  },
+  "54": {
+    "Nama": "ikanBandeng",
+    "Manfaat1": "Membantu menjaga keseimbangan kadar kolesterol",
+    "Manfaat2": "Merawat Tulang dan Gigi",
+    "Manfaat3": "Menjaga Daya Tahan Tubuh",
+    "Manfaat4": "Bermanfaat untuk Ibu Hamil",
+    "Manfaat5": "Mendukung Pertumbuhan dan Perkembangan Anak"
+  },
+  "55": {
+    "Nama": "ikanBawal",
+    "Manfaat1": "Mendukung kesehatan ibu hamil",
+    "Manfaat2": "Mendukung perkembangan janin",
+    "Manfaat3": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat4": "Menunjang fungsi otak",
+    "Manfaat5": "Menopang kesehatan saraf"
+  },
+  "56": {
+    "Nama": "ikanBili",
+    "Manfaat1": "Membantu perkembangan janin",
+    "Manfaat2": "Pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat3": "Menunjang kesehatan saraf",
+    "Manfaat4": "Menopang imunitas tubuh",
+    "Manfaat5": "Meningkatkan dan menjaga fungsi kemampuan berfikir"
+  },
+  "57": {
+    "Nama": "ikanBubara",
+    "Manfaat1": "Baik untuk ibu hamil",
+    "Manfaat2": "Membantu perkembangan otak",
+    "Manfaat3": "Memberikan manfaat neurologis",
+    "Manfaat4": "Menurunkan risiko terbentuknya batu ginjal",
+    "Manfaat5": "Memperbaiki kesehatan gigi\u00a0"
+  },
+  "58": {
+    "Nama": "ikanCakalang",
+    "Manfaat1": "Pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat2": "Menopang perkembangan janin",
+    "Manfaat3": "Menopang perkembangan otak",
+    "Manfaat4": "Meningkatkan produksi hemoglobin",
+    "Manfaat5": "Memastikan berlangsungnya fungsi otak dengan baik"
+  },
+  "59": {
+    "Nama": "ikanEkorKuning",
+    "Manfaat1": "\u00a0Baik untuk ibu hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat4": "\u00a0Meningkatkan fungsi otak ",
+    "Manfaat5": "\u00a0Menjaga dan meningkatkan pertumbuhan tulang"
+  },
+  "60": {
+    "Nama": "ikanGabus",
+    "Manfaat1": "Mengobati diabetes",
+    "Manfaat2": "Menjaga Keseimbangan Cairan Tubuh",
+    "Manfaat3": "Mempercepat Sembuhnya Luka Setelah Operasi",
+    "Manfaat4": "Menjaga Kesehatan Sistem Pencernaan",
+    "Manfaat5": "Memperbaiki Kondisi Gizi Buruk"
+  },
+  "61": {
+    "Nama": "ikanKakapMerah",
+    "Manfaat1": "Membantu terhadap pertumbuhan dan perkembangan sel pada tubuh",
+    "Manfaat2": "Mengoptimalkan kesehatan otak",
+    "Manfaat3": "Menjaga kesehatan tulang",
+    "Manfaat4": "Membantu mendukung\u00a0kesehatan\u00a0organ jantung",
+    "Manfaat5": "mengendalikan kadar kolesterol darah."
+  },
+  "62": {
+    "Nama": "ikanKembung",
+    "Manfaat1": "Menunjang dan meningkatkan fungsi kognitif (kemampuan berpikir)",
+    "Manfaat2": "Menjaga ibu hamil tetap sehat",
+    "Manfaat3": "\u00a0Meminimalkan risiko terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat4": "\u00a0Menurunkan risiko penyusutan tulang selama hamil dan menyusui",
+    "Manfaat5": "\u00a0Mendukung perkembangan janin"
+  },
+  "63": {
+    "Nama": "ikanLele",
+    "Manfaat1": "Untuk pertumbuhan otak dan sistem saraf selama kehamilan",
+    "Manfaat2": "Meningkatkan kesehatan jantung",
+    "Manfaat3": "Menjaga kadar kolesterol",
+    "Manfaat4": "Menjaga pasokan kalsium selama kehamilan",
+    "Manfaat5": "Sumber protein ibu hamil"
+  },
+  "64": {
+    "Nama": "ikanMas",
+    "Manfaat1": "Memaksimalkan perkembangan mata janin",
+    "Manfaat2": "Menjaga keseimbangan tekanan darah",
+    "Manfaat3": "Mengurangi risiko osteoporosis",
+    "Manfaat4": "Menjaga kesehatan tulang dan gigi",
+    "Manfaat5": "Mencegah anemia pada ibu hamil"
+  },
+  "65": {
+    "Nama": "ikanMujair",
+    "Manfaat1": "Mampu\u00a0 mencegah kanker",
+    "Manfaat2": "Mengurangi pembekuan darah.",
+    "Manfaat3": "Menurunkan kolesterol.",
+    "Manfaat4": "mampu menjaga kepadatan tulang",
+    "Manfaat5": "Mengurangi risiko stroke dan gagal jantung"
+  },
+  "66": {
+    "Nama": "ikanNila",
+    "Manfaat1": "Mendukung pertumbuhan dan perkembangan janin",
+    "Manfaat2": "Mencegah anemia",
+    "Manfaat3": "Mencegah Preeklampsia",
+    "Manfaat4": "Mengurangi Risiko Terkena Diabetes Gestasional",
+    "Manfaat5": "Meningkatkan Daya Tahan Tubuh"
+  },
+  "67": {
+    "Nama": "ikanPatin",
+    "Manfaat1": "Mendukung kesehatan ibu hamil",
+    "Manfaat2": "Mendukung perkembangan janin",
+    "Manfaat3": "Menunjang fungsi otak",
+    "Manfaat4": "Membantu perkembangan otak",
+    "Manfaat5": "Menopang kesehatan saraf"
+  },
+  "68": {
+    "Nama": "ikanPindang",
+    "Manfaat1": "Baik untuk ibu hamil",
+    "Manfaat2": "Menopang perkembangan janin",
+    "Manfaat3": "Meningkatkan produksi hemoglobin",
+    "Manfaat4": "Mencegah gagal jantung",
+    "Manfaat5": "Memastikan berlangsungnya fungsi otak dengan baik"
+  },
+  "69": {
+    "Nama": "ikanSalmon",
+    "Manfaat1": "Menunjang perkembangan otak",
+    "Manfaat2": "Baik untuk Kesehatan Mata",
+    "Manfaat3": "Baik untuk Kulit dan Rambut",
+    "Manfaat4": "Baik untuk Jantung",
+    "Manfaat5": "Baik untuk Kesehatan Tulang"
+  },
+  "70": {
+    "Nama": "ikanSarden",
+    "Manfaat1": "Mencegah penyakit jantung",
+    "Manfaat2": "Memperkuat Tulang",
+    "Manfaat3": "Resistansi Insulin",
+    "Manfaat4": "Mencegah Kanker",
+    "Manfaat5": "Membantu Diet Sehat"
+  },
+  "71": {
+    "Nama": "ikanSepat",
+    "Manfaat1": "Menjaga kesehatan tulang dan gigi",
+    "Manfaat2": "Mencegah anemia",
+    "Manfaat3": "Menjaga sistem imun dan otot",
+    "Manfaat4": "Mencegah diabetes",
+    "Manfaat5": "Menstabilkan tekanan darah tinggi"
+  },
+  "72": {
+    "Nama": "ikanTeri",
+    "Manfaat1": "Untuk kesehatan tulang",
+    "Manfaat2": "Melancarkan perkembangan otak janin",
+    "Manfaat3": "Sumber zat besi",
+    "Manfaat4": "Menjaga berat badan",
+    "Manfaat5": "Menjaga kesehatan kulit"
+  },
+  "73": {
+    "Nama": "ikanTongkol",
+    "Manfaat1": "Menurunkan risiko kurang darah",
+    "Manfaat2": "Mendukung pertumbuhan janin",
+    "Manfaat3": "Menjaga kesehatan jantung",
+    "Manfaat4": "Menyehatkan tulang dan otot",
+    "Manfaat5": "Menjaga keseimbangan cairan tubuh"
+  },
+  "74": {
+    "Nama": "ikanTuna",
+    "Manfaat1": "Mencegah keguguran dan menyehatkan jantung",
+    "Manfaat2": "Meminimalisir bayi lahir prematur",
+    "Manfaat3": "\u00a0Baik untuk otak bayi",
+    "Manfaat4": "Untuk perkembangan kognitif",
+    "Manfaat5": "Mengurangi risiko asma"
+  },
+  "75": {
+    "Nama": "jamurKuping",
+    "Manfaat1": "Meningkatkan kekebalan tubuh",
+    "Manfaat2": "Menjaga kesehatan pencernaan",
+    "Manfaat3": "Menurunkan kadar kolesterol",
+    "Manfaat4": "Menjaga tubuh agar terhindar dari diabetes",
+    "Manfaat5": "Mengobati anemia"
+  },
+  "76": {
+    "Nama": "jamurTiram",
+    "Manfaat1": "Menjaga kesehatan jantung",
+    "Manfaat2": "Memperkuat Sistem Imun Tubuh",
+    "Manfaat3": "Meningkatkan Kesehatan Kognitif",
+    "Manfaat4": "Bisa Mengontrol Kadar Gula Darah",
+    "Manfaat5": "Menurunkan Risiko Kanker"
+  },
+  "77": {
+    "Nama": "jengkol",
+    "Manfaat1": "Mengatasi demam berdarah",
+    "Manfaat2": "Mencegah Diabetes",
+    "Manfaat3": "Mengurangi Risiko Peradangan",
+    "Manfaat4": "Mencegah Anemia",
+    "Manfaat5": "Mencegah Sakit Maag"
+  },
+  "78": {
+    "Nama": "kacangMekah",
+    "Manfaat1": "Mencegah diabetes",
+    "Manfaat2": "Melancarkan proses pencernaan",
+    "Manfaat3": "Menjaga kesehatan jantung",
+    "Manfaat4": "Mencegah anemia",
+    "Manfaat5": "Mendukung penurunan berat badan"
+  },
+  "79": {
+    "Nama": "kecombrang",
+    "Manfaat1": "Memberikan manfaat neurologis",
+    "Manfaat2": "Mengurangi risiko terjadinya kanker, terutama kanker usus besar",
+    "Manfaat3": "Mencegah risiko terjadinya kram otot",
+    "Manfaat4": "Menunjang kesehatan tulang",
+    "Manfaat5": "Membantu fungsi otak"
+  },
+  "80": {
+    "Nama": "kepiting",
+    "Manfaat1": "Memperbaiki kesehatan ibu hamil",
+    "Manfaat2": "Mendukung perkembangan janin",
+    "Manfaat3": "Meminimalkan resiko pre-eklampsia pada ibu hamil",
+    "Manfaat4": "Menjamin fungsi otak",
+    "Manfaat5": "Menjaga dan meningkatkan pertumbuhan tulang"
+  },
+  "81": {
+    "Nama": "kerang",
+    "Manfaat1": "Menyehatkan jantung",
+    "Manfaat2": "Membantu perkembangan neurologis bayi",
+    "Manfaat3": "Menjaga berat badan",
+    "Manfaat4": "Menjaga kestabilan tekanan darah",
+    "Manfaat5": "Menutrisi janin dengan baik"
+  },
+  "82": {
+    "Nama": "labuWaluhKuning",
+    "Manfaat1": "Melancarkan pencernaan",
+    "Manfaat2": "Menekan risiko terkena kanker",
+    "Manfaat3": "Menjaga kesehatan mata",
+    "Manfaat4": "Memelihara kesehatan jantung",
+    "Manfaat5": "Menjaga kesehatan dan fungsi otak"
+  },
+  "83": {
+    "Nama": "melinjo",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Baik untuk ibu hamil",
+    "Manfaat3": "Mencegah terjadinya pre-eklampsia pada ibu hamil",
+    "Manfaat4": "Menunjang fungsi otak",
+    "Manfaat5": "Meminimalkan resiko terjadinya kanker usus besar"
+  },
+  "84": {
+    "Nama": "petai",
+    "Manfaat1": "Mendukung perkembangan janin",
+    "Manfaat2": "Menunjang kesehatan ibu hamil",
+    "Manfaat3": "Menopang perkembangan otak",
+    "Manfaat4": "Baik untuk jantung",
+    "Manfaat5": "Mempertahankan keseimbangan ph dalam tubuh"
+  },
+  "85": {
+    "Nama": "rebung",
+    "Manfaat1": "Mencegah resiko terjadinya hipertensi",
+    "Manfaat2": "Menjaga gula darah tetap stabil",
+    "Manfaat3": "Menjaga gula darah tetap stabil",
+    "Manfaat4": "Mencegah kanker usus besar",
+    "Manfaat5": "Membantu keseimbangan cairan tubuh"
+  },
+  "86": {
+    "Nama": "rumputLaut",
+    "Manfaat1": "Membantu pertumbuhan tulang dan gigi janin",
+    "Manfaat2": "Membantu tumbuh kembang otak dan saraf janin",
+    "Manfaat3": "Melancarkan pencernaan ibu hamil",
+    "Manfaat4": "Mencegah pendarahan pada ibu hamil",
+    "Manfaat5": "Mencegah anemia selama kehamilan"
+  },
+  "87": {
+    "Nama": "sayurBuncis",
+    "Manfaat1": "Menjaga jantung lebih sehat",
+    "Manfaat2": "Menjaga imunitas tubuh",
+    "Manfaat3": "Mengendalikan kadar gula darah",
+    "Manfaat4": "Meningkatkan kesehatan usus",
+    "Manfaat5": "Meningkatkan kesuburan pada wanita"
+  },
+  "88": {
+    "Nama": "sayurGenjer",
+    "Manfaat1": "Membantu kesehatan ibu hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Menunjang kesehatan saraf",
+    "Manfaat4": "Membantu produksi hemoglobin",
+    "Manfaat5": "Mencegah resiko terjadinya penyakit kanker"
+  },
+  "89": {
+    "Nama": "sayurJagungMuda",
+    "Manfaat1": "Mengontrol kolesterol",
+    "Manfaat2": "Mencegah anemia",
+    "Manfaat3": "Meningkatkan sistem pencernaan",
+    "Manfaat4": "Asupan penting selama kehamilan",
+    "Manfaat5": "Mengurangi risiko kanker"
+  },
+  "90": {
+    "Nama": "sayurJantungPisang",
+    "Manfaat1": "Menunjang sistem imun",
+    "Manfaat2": "Menangkal berbagai radikal bebas yang bisa menimbulkan kerusakan oksidatif di dalam tubuh",
+    "Manfaat3": "Menjaga gula darah tetap stabil",
+    "Manfaat4": "Memerangi penyakit gagal jantung",
+    "Manfaat5": "Mencegah resiko penyakit diabetes"
+  },
+  "91": {
+    "Nama": "sayurKacangPanjang",
+    "Manfaat1": "Menunjang perkembangan janin",
+    "Manfaat2": "Baik untuk ibu hamil",
+    "Manfaat3": "Meminimalkan risiko penyusutan tulang selama hamil dan menyusui",
+    "Manfaat4": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi ",
+    "Manfaat5": "Meredakan mual saat hamil"
+  },
+  "92": {
+    "Nama": "sayurKangkung",
+    "Manfaat1": "Mencegah pre-eklampsia pada ibu hamil",
+    "Manfaat2": "Mencegah cacat lahir",
+    "Manfaat3": "Meningkatkan kekebalan tubuh",
+    "Manfaat4": "Mencegah anemia",
+    "Manfaat5": "Mengurangi risiko diabetes"
+  },
+  "93": {
+    "Nama": "sayurKecipir",
+    "Manfaat1": "Meningkatkan imunitas",
+    "Manfaat2": "Menurunkan risiko peradangan pada tubuh",
+    "Manfaat3": "Menjaga mata tetap sehat",
+    "Manfaat4": "Menurunkan risiko diabetes",
+    "Manfaat5": "Mencegah obesitas"
+  },
+  "94": {
+    "Nama": "sayurKolMerah",
+    "Manfaat1": "Meningkatkan kekebalan tubuh",
+    "Manfaat2": "Mencegah kanker",
+    "Manfaat3": "Mendukung Kesehatan Jantung",
+    "Manfaat4": "Mengatasi arthritis dan peradangan",
+    "Manfaat5": "Menjaga Kesehatan Usus"
+  },
+  "95": {
+    "Nama": "sayurKolPutih",
+    "Manfaat1": "Meningkatkan kesehatan DNA",
+    "Manfaat2": "Baik untuk kesehatan tulang\u00a0",
+    "Manfaat3": "Obat sembelit alami",
+    "Manfaat4": "Mencegah diabetes Gestasional\u00a0",
+    "Manfaat5": "Menurunkan risiko anemia pada kehamilan"
+  },
+  "96": {
+    "Nama": "sayurLabuSiam",
+    "Manfaat1": "Memastikan berlangsungnya fungsi otak dengan baik",
+    "Manfaat2": "Membantu gula darah tetap stabil",
+    "Manfaat3": "Mencegah terjadinya gagal jantung kongestif",
+    "Manfaat4": "Bertindak sebagai antioksidan",
+    "Manfaat5": "Membuat pencernaan berjalan lancar"
+  },
+  "97": {
+    "Nama": "SayurNangkaMuda",
+    "Manfaat1": "Meningkatkan fungsi otak",
+    "Manfaat2": "Menurunkan resiko hipertensi",
+    "Manfaat3": "Menjaga gula darah tetap stabil",
+    "Manfaat4": "Meningkatkan dan menjaga kesehatan sistem pencernaan",
+    "Manfaat5": "Meminimalkan terbentuknya batu ginjal"
+  },
+  "98": {
+    "Nama": "sayurPakis",
+    "Manfaat1": "Baik untuk perkembangan janin",
+    "Manfaat2": "Meningkatkan kekebalan tubuh",
+    "Manfaat3": "Meningkatkan produksi sel darah merah",
+    "Manfaat4": "Menjaga kepadatan tulang",
+    "Manfaat5": "Baik untuk kesehatan jantung"
+  },
+  "99": {
+    "Nama": "sayurPepayaMuda",
+    "Manfaat1": "Menyehatkan pencernaan",
+    "Manfaat2": "Membantu mempersiapkan produksi ASI",
+    "Manfaat3": "Menyehatkan kulit",
+    "Manfaat4": "Cocok untuk diet di masa kehamilan",
+    "Manfaat5": "Untuk kesehatan dan tumbuh kembang janin"
+  },
+  "100": {
+    "Nama": "sayurSawiHijau",
+    "Manfaat1": "Membantu perkembangan janin",
+    "Manfaat2": "Baik untuk ibu hamil",
+    "Manfaat3": "Mencegah risiko penyusutan tulang selama hamil dan menyusui",
+    "Manfaat4": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi",
+    "Manfaat5": "Mencegah pre-eklampsia pada ibu hamil"
+  },
+  "101": {
+    "Nama": "sayurSawiPutih",
+    "Manfaat1": "Menunjang kesehatan ibu hamil",
+    "Manfaat2": "Menopang proses reproduksi",
+    "Manfaat3": "Meredakan mual saat hamil",
+    "Manfaat4": "Mendukung perkembangan janin",
+    "Manfaat5": "Menurunkan risiko terjadinya pre-eklampsia pada ibu hamil"
+  },
+  "102": {
+    "Nama": "sayurSelada",
+    "Manfaat1": "Meredakan mual saat hamil",
+    "Manfaat2": "Membantu perkembangan janin",
+    "Manfaat3": "Menunjang kesehatan ibu hamil",
+    "Manfaat4": "Meningkatkan dan menjaga proses reproduksi",
+    "Manfaat5": "Salah satu pengatur keseimbangan hormon untuk kesehatan reproduksi"
+  },
+  "103": {
+    "Nama": "sayurSeladaAir",
+    "Manfaat1": "Mempertahankan sistem kekebalan tubuh yang kuat",
+    "Manfaat2": "Meningkatkan kesehatan tulang",
+    "Manfaat3": "Meningkatkan kehamilan yang sehat",
+    "Manfaat4": "Membantu melawan kanker",
+    "Manfaat5": "Meningkatkan penglihatan"
+  },
+  "104": {
+    "Nama": "sayurTerong",
+    "Manfaat1": "Mendukung fungsi otak",
+    "Manfaat2": "Menurunkan kolesterol jahat dan meningkatkan kolesterol baik dalam darah",
+    "Manfaat3": "Bertindak sebagai antioksidan",
+    "Manfaat4": "Memperkuat imunitas tubuh",
+    "Manfaat5": "Mencegah resiko terjadinya penyakit kanker"
+  },
+  "105": {
+    "Nama": "sayurTerongBelanda",
+    "Manfaat1": "Melancarkan sistem peredaran darah",
+    "Manfaat2": "Menyangga fungsi otak",
+    "Manfaat3": "Menyangga fungsi kognitif (kemampuan berpikir)",
+    "Manfaat4": "Menunjang sistem imun",
+    "Manfaat5": "Menurunkan resiko terjadinya kanker"
+  },
+  "106": {
+    "Nama": "taoge",
+    "Manfaat1": "Mencegah terjadinya keguguran",
+    "Manfaat2": "Mencegah anemia",
+    "Manfaat3": "Menjaga berat badan ibu hamil",
+    "Manfaat4": "Membantu pembentukan tulang",
+    "Manfaat5": "Menghindari cacat pada janin"
+  },
+  "107": {
+    "Nama": "timun",
+    "Manfaat1": "Menambah hidrasi atau asupan cairan",
+    "Manfaat2": "Mengurangi kadar gula dalam darah",
+    "Manfaat3": "Melancarkan pencernaan",
+    "Manfaat4": "Menjaga kesehatan jantung",
+    "Manfaat5": "Memelihara kepadatan tulang"
+  },
+  "108": {
+    "Nama": "tomatMerah",
+    "Manfaat1": "Menjaga kulit tetap sehat",
+    "Manfaat2": "Menurunkan resiko hipertensi",
+    "Manfaat3": "Meningkatkan fungsi otak",
+    "Manfaat4": "Meningkatkan dan menjaga kesehatan sistem pencernaan",
+    "Manfaat5": "Meminimalkan terjadinya penyakit asma"
+  },
+  "109": {
+    "Nama": "tomatMuda",
+    "Manfaat1": "Mencegah kanker",
+    "Manfaat2": "Melindungi Jantung dan Mencegah Stroke",
+    "Manfaat3": "Anti Diabetes",
+    "Manfaat4": "Menjaga Penglihatan Mata",
+    "Manfaat5": "Menurunkan\u00a0Tekanan Darah Tinggi"
+  },
+  "110": {
+    "Nama": "udangGalah",
+    "Manfaat1": "Sumber protein yang baik",
+    "Manfaat2": "Sebagai sumber antioksidan",
+    "Manfaat3": "Membantu menguatkan tulang",
+    "Manfaat4": "Membantu meningkatkan energi",
+    "Manfaat5": "Mencegah anemia"
+  },
+  "111": {
+    "Nama": "udangRebon",
+    "Manfaat1": "Meningkatkan kesehatan jantung \u00a0dan otak",
+    "Manfaat2": "Dapat Meningkatkan Kesehatan Tulang",
+    "Manfaat3": "Dapat Menurunkan Degenerasi Makula Terkait Usia (AMD)",
+    "Manfaat4": "Dapat Mencegah Rambut Rontok",
+    "Manfaat5": "Menurunkan Berat Badan"
+  },
+  "112": {
+    "Nama": "udangWindu",
+    "Manfaat1": "Membantu tumbuh kembang janin",
+    "Manfaat2": "Menunjang kesehatan ibu hamil",
+    "Manfaat3": "Menunjang perkembangan otak",
+    "Manfaat4": "Memastikan berlangsungnya fungsi otak dengan baik",
+    "Manfaat5": "Khusus melindungi sel dari kerusakan akibat radikal bebas"
+  },
+  "113": {
+    "Nama": "wortel",
+    "Manfaat1": "Baik untuk ibu hamil",
+    "Manfaat2": "Meredakan mual saat hamil",
+    "Manfaat3": "Membantu perkembangan janin",
+    "Manfaat4": "Mencegah risiko penyusutan tulang selama hamil dan menyusui",
+    "Manfaat5": "Mencegah risiko terjadinya pre-eklampsia pada ibu hamil"
+  }
+}
